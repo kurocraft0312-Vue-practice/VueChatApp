@@ -1,9 +1,9 @@
 import Vue from 'vue'
-import VueFire from 'vuefire'
+import * as VueFire from 'vuefire'
 import firebase from 'firebase/app'
 import 'firebase/firestore'
 
-Vue.use(Vuefire)
+Vue.use(VueFire)
 
 const firebaseApp = firebase.initializeApp({
     apiKey: "AIzaSyD0nIFFWFd-6ZdTfMPUBskL31Nm8t7BXh0",
