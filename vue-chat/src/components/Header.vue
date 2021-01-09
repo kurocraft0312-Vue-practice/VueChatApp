@@ -1,0 +1,11 @@
+<template>
+  <div>
+    <v-toolbar
+      dark
+      prominent
+      src="@/../src/assets/img/vbanner.jpg"
+    >
+      <v-toolbar-title>VueChatApp</v-toolbar-title>
+    </v-toolbar>
+  </div>
+</template>
