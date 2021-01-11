@@ -4,7 +4,6 @@
     <ChatBoard />
   </div>
 </template>
-
 <script>
 import Header from './components/Header'
 import ChatBoard from './components/ChatBoard'
